@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.patreon.com/c/Americanyutao">
+    <img src="https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Support on Patreon">
+  </a>
+</p>
 <p align="center"><img src="media/icon.png" width="96" alt="Damage Meter icon"></p>
 
 # WARHAMMER III Damage Meter
