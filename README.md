@@ -2,13 +2,13 @@
 
 # WARHAMMER III Damage Meter
 
-A separate Windows companion window for **Total War: WARHAMMER III**. Follow each unit’s damage, gold damage dealt, and kills while a battle plays out.
+A separate Windows companion window for **Total War: WARHAMMER III**. Follow each unit's damage, gold damage dealt, and kills while a battle plays out.
 
 ![Damage Meter during a battle](media/damage-meter.png)
 
 ## Download and install
 
-1. Open this repository’s **Releases** page and download **DamageMeter.exe** from the latest release’s Assets.
+1. Download [**DamageMeter.exe**](https://github.com/Americanyutao/Warhammer3-Damage-Meter/raw/refs/heads/main/DamageMeter.exe).
 2. Save it anywhere convenient and double-click **DamageMeter.exe**. There is no installer and no separate Python setup.
 3. Start WARHAMMER III and enter a battle. The meter connects automatically.
 
@@ -40,7 +40,7 @@ Use **My units** and **Enemy** to switch views. Repeated unit names receive numb
 
 ![Enemy army view](media/enemy-view.png)
 
-The refresh selector is at the top right. Lower refresh rates reduce the app’s workload; number and bar animations remain smooth.
+The refresh selector is at the top right. Lower refresh rates reduce the app's workload; number and bar animations remain smooth.
 
 ![Refresh rate options](media/refresh-options.png)
 
@@ -72,7 +72,7 @@ Large overhauls and mods that change battle ownership, visibility, summons, or b
 
 ### How can I check the download's safety?
 
-Download from this repository's Releases page. You can scan the EXE with your antivirus or [VirusTotal](https://www.virustotal.com/).
+Use the DamageMeter.exe download link in this repository. You can scan the EXE with your antivirus or [VirusTotal](https://www.virustotal.com/).
 
 ### What does Damage Meter access on my computer?
 
